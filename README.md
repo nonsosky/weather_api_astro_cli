@@ -1,6 +1,6 @@
 The goal of this project is to build a weather analytics platform that automates the collection, processing, and analysis of weather data for agricultural decision-making. The project aims to:
 
-□ Automate Daily Weather Data Collection: Use Apache Airflow to schedule automatic data ingestion from the Weatherstack API, ensuring that weather information is updated every day without manual input.
+□ Automate Daily Weather Data Collection: Use Apache Airflow via Astro CLI to schedule automatic data ingestion from the Weatherstack API, ensuring that weather information is updated every day without manual input.
 
 □ Provide Accurate, Location-Specific Weather Insights: Deliver actionable, real-time weather data that is relevant to each farm’s specific geographic location, including temperature, humidity, wind speed, and precipitation.
 
